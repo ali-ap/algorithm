@@ -8,5 +8,9 @@ import (
 func main() {
 	fmt.Println("algorithm:")
 	//problems.SolveReverseString()
-	problems.IsValidPalindrome()
+	//problems.IsValidPalindrome()
+	//problems.SolveReverseInteger()
+	//problems.SolveFizzBuz()
+	//problems.SolveAnagram()
+	problems.SolveCapitalizeTitle()
 }
