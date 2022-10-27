@@ -12,5 +12,10 @@ func main() {
 	//problems.SolveReverseInteger()
 	//problems.SolveFizzBuz()
 	//problems.SolveAnagram()
-	problems.SolveCapitalizeTitle()
+	//problems.SolveCapitalizeTitle()
+	//problems.SolveTwoSum()
+	//problems.SolveMaxWater()
+	//problems.CompareBackspaces()
+	//problems.SolveLengthOfLongestSubstring()
+	problems.SolveValidPalindrome2()
 }
