@@ -17,5 +17,8 @@ func main() {
 	//problems.SolveMaxWater()
 	//problems.CompareBackspaces()
 	//problems.SolveLengthOfLongestSubstring()
-	problems.SolveValidPalindrome2()
+	//problems.SolveValidPalindrome2()
+	//problems.SolveValidParentheses()
+	//problems.SolveMinRemoveToMakeValid()
+	problems.SolveMyQueue()
 }
